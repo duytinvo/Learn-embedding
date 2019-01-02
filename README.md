@@ -74,17 +74,17 @@ Where:
  ## Illustration
  ### Neareast neighbor words of **server**:
  
- - word2vec: ![word2vec](./figs/sim_w2v.png)
+ #### word2vec: ![word2vec](./figs/sim_w2v.png)
  
- - fasttext: ![fasttext](./figs/sim_fasttext.png)
+ #### fasttext: ![fasttext](./figs/sim_fasttext.png)
  
- - glove: ![glove](./figs/sim_glove.png)
+ #### glove: ![glove](./figs/sim_glove.png)
  
  ### 2-D figures of 1000 random words 
  
- - word2vec: ![word2vec](./figs/w2v_yelp100.png)
+ #### word2vec: ![word2vec](./figs/w2v_yelp100.png)
  
- - fasttext: ![fasttext](./figs/fasttext_yelp100.png)
+ #### fasttext: ![fasttext](./figs/fasttext_yelp100.png)
  
- - glove: ![glove](./figs/glove_yelp100.png)
+ #### glove: ![glove](./figs/glove_yelp100.png)
 
