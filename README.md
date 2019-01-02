@@ -78,7 +78,7 @@ Where:
  ![word2vec](./figs/sim_w2v.png)
  
  #### fasttext:  
- ![fasttext](./figs/sim_fasttext.png)
+ ![fasttext](./figs/sim_ft.png)
  
  #### glove:  
  ![glove](./figs/sim_glove.png)
@@ -89,7 +89,7 @@ Where:
  ![word2vec](./figs/w2v_yelp100.png)
  
  #### fasttext:  
- ![fasttext](./figs/fasttext_yelp100.png)
+ ![fasttext](./figs/ft_yelp100.png)
  
  #### glove:  
  ![glove](./figs/glove_yelp100.png)
