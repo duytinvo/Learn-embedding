@@ -38,7 +38,7 @@ if __name__ == '__main__':
     parser.add_argument("--mode", help="model type", default='skipgram')
     parser.add_argument("--loss", help="loss mode [ns, hs, softmax]", type=str, default="ns")
     parser.add_argument("--neg", help="negative sampling (be used when loss=ns)", type=int, default=5)
-    parser.add_argument("--worker", help="Number of threads",type=int, default=12)
+    parser.add_argument("--worker", help="Number of threads", type=int, default=12)
     parser.add_argument("--minn", help="minimum sub-word", type=int, default=3)
     parser.add_argument("--maxn", help="maximum sub-word", type=int, default=6)
     args = parser.parse_args()

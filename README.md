@@ -62,7 +62,7 @@ Where:
   + emb_file: the saved word vector filename
   + plot_file: the saved figure
   
-## Cosine Similarity to Measure 10 Most Similar Word Vectors
+## Cosine Similarity to Measure the Most Similar Embeddings
 - Run:     
     ```
     python simembs.py --emb_file ./results/w2v_yelp100.vec.txt --N 20
@@ -72,19 +72,25 @@ Where:
   + N: Number of compared words
 
  ## Illustration
- ### Neareast neighbor words of **server**:
+ ### Neareast neighbor words with **_server_**:
  
- #### word2vec: ![word2vec](./figs/sim_w2v.png)
+ #### word2vec:  
+ ![word2vec](./figs/sim_w2v.png)
  
- #### fasttext: ![fasttext](./figs/sim_fasttext.png)
+ #### fasttext:  
+ ![fasttext](./figs/sim_fasttext.png)
  
- #### glove: ![glove](./figs/sim_glove.png)
+ #### glove:  
+ ![glove](./figs/sim_glove.png)
  
  ### 2-D figures of 1000 random words 
  
- #### word2vec: ![word2vec](./figs/w2v_yelp100.png)
+ #### word2vec:  
+ ![word2vec](./figs/w2v_yelp100.png)
  
- #### fasttext: ![fasttext](./figs/fasttext_yelp100.png)
+ #### fasttext:  
+ ![fasttext](./figs/fasttext_yelp100.png)
  
- #### glove: ![glove](./figs/glove_yelp100.png)
+ #### glove:  
+ ![glove](./figs/glove_yelp100.png)
 
